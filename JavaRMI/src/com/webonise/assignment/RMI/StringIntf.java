@@ -7,6 +7,7 @@ import java.rmi.*;
  *         declare one method that is check() and this interface is then
  *         implemented by StringImpl class
  */
+
 public interface StringIntf extends Remote {
 
 	int check(String str) throws RemoteException;

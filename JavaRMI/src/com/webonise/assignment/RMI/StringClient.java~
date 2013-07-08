@@ -2,6 +2,7 @@ package com.webonise.assignment.RMI;
 
 import java.rmi.*;
 import java.io.*;
+
 /**
  * @author Anvay this class act as client take input from user passes it to
  *         server and print the result return by server.
